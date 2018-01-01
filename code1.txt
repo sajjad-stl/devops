@@ -1,4 +1,4 @@
 This is test file we changed this file
-modified :wq
+this is a branch file
 :wq
 
